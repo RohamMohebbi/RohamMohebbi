@@ -1,79 +1,189 @@
-# 👋 Hey, I'm Roham Mohebbi!
-
-## 🐍 Python First | Backend Developer in Training 🚀
-
----
-
-### 🧑‍🎓 About Me
-
-- 🎓 Student with **2 official Python certificates** (Ministry of Education & ICT)
-- 💻 I build **everything**: web apps, Telegram bots, scripts, security tools, automations
-- 🔐 Passionate about **Web Security** & **Networking**
-- 🚀 Python first, familiar with **JavaScript, Bash & C++**
-- 😄 Friendly, fun, and always up for a challenge!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Python+First+%F0%9F%90%8D;Backend+Developer+in+Training+%F0%9F%9A%80;Security+Enthusiast+%F0%9F%94%90;Always+Learning+%F0%9F%92%AA;Breaker+of+Things+%F0%9F%A7%A8" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<h1 align="center">👋 Hey, I'm Roham Mohebbi</h1>
+<h3 align="center">🐍 Python First | Backend Developer in Training 🚀</h3>
 
-**Primary Language:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohamMohebbi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RohamMohebbi?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/RohamMohebbi?label=Stars&style=social" alt="Stars" />
+</p>
 
-**Frameworks:**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
 
-**Other Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+## 🧑‍🎓 About Me
 
-**Security & Networking:**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
+```python
+class RohamMohebbi:
+    def __init__(self):
+        self.name = "Roham Mohebbi"
+        self.role = "Student & Backend Developer in Training"
+        self.certificates = ["Python Basic", "Python Advanced"]
+        self.interests = ["Web Dev", "Security", "Networking", "Bots", "Automation"]
+        self.motto = "Python First 🐍"
+    
+    def say_hi(self):
+        print("Hey! Let's build something awesome together! 🚀")```
 
-**DevOps & Tools:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+🛠️ Tech Stack
+
+🐍 Primary Language
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+🌐 Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+💻 Other Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+🔐 Security & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
+
+☁️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+🧪 Testing & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
+📂 What I Build
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" />
+      <br />🌐 Web Apps
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+      <br />🤖 Telegram Bots
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
+      <br />🔧 Security Tools
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
+      <br />📦 Automation Scripts
+    </td>
+  </tr>
+</table>
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohamMohebbi&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohamMohebbi&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohamMohebbi&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+🎯 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Penetration_Testing-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking_TCP/IP-00BFFF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_&_Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Design-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohamMohebbi&theme=radical&hide_border=true" width="100%" />
+</p>
+
+💬 Connect With Me
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📂 What I Build
+🏆 GitHub Trophies
 
-- 🌐 **Web Applications** (Django, FastAPI, Flask)
-- 🤖 **Telegram & Discord Bots**
-- 🔧 **Security Tools** (scanners, network tools)
-- 📦 **Automation Scripts** (scraping, data processing)
-- 🎯 **Random Cool Projects** (anything I can think of!)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RohamMohebbi&theme=radical&no-frame=true&row=1&column=6" width="100%" />
+</p>
 
----
+🧠 Quote of the Day
 
-### 🎯 Currently Learning
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-- 🔐 Web Application Penetration Testing
-- 🌐 Networking (TCP/IP, DNS, Routing)
-- ☁️ Docker & Cloud Basics
+⚡ Fun Facts About Me
 
----
+· 🐍 I speak Python better than my native language
+· 🔐 I break things to make them stronger
+· 🌙 I code better at night
+· ☕ Fueled by coffee and curiosity
+· 🎯 My motto: "Python First" – everything else comes second... for now 😉
 
-### 💬 Let's Connect!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+my+repos+if+you+like+them!+%E2%AD%90;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-I'm always open to:
-- 🤝 Collaborating on fun projects
-- 💡 Learning together & sharing knowledge
-
-📫 **Contact:** Available upon request  
-🌐 **GitHub:** [RohamMohebbi](https://github.com/RohamMohebbi)
-
----
-
-### ⚡ My Motto
-
-> **"Python First"** 🐍  
-> *Everything else comes second... for now 😉*
-
----
-
-⭐ **Feel free to star my repos or reach out!** 🚀
+<p align="center">
+  <b>⭐ Feel free to star my repos or reach out for collab! 🚀</b>
+</p>
