@@ -142,23 +142,17 @@ class RohamMohebbi:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohamMohebbi&theme=radical&hide_border=true" width="100%" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RohamMohebbi&theme=radical&no-frame=true&row=1&column=6" width="100%" />
 </p>
 
----
-
 ## 🧠 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+my+repos+if+you+like+them!+%E2%AD%90;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" />
