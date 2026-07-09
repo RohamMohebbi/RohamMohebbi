@@ -160,16 +160,6 @@ class RohamMohebbi:
 
 ---
 
-## ⚡ Fun Facts About Me
-
-- 🐍 I speak **Python** better than my native language
-- 🔐 I break things to make them **stronger**
-- 🌙 I code better at **night**
-- ☕ Fueled by and **curiosity**
-- 🎯 My motto: **"Python First"** – everything else comes second... for now 😉
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+my+repos+if+you+like+them!+%E2%AD%90;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
