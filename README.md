@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">👋 Hey, I'm Roham Mohebbi</h1>
-<h3 align="center">🚀 Python Backend Developer | Security Enthusiast | Student</h3>
+<h3 align="center">🚀 Python Backend Developer | Full-stack developer | Security | Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohamMohebbi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
